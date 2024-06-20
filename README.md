@@ -1,5 +1,5 @@
 # About Me:
-I am a Software Engineer with a passion for exploring new technologies and<br>building efficient and scalable systems.<br><br>🔭 I’m currently working on Kubernetes, CI/CD, and AWS<br>🌱 I’m currently learning about cloud computing systems through a master's program. <br>
+I am a Software Engineer with a passion for exploring new technologies and<br>building efficient and scalable systems.<br><br>🔭 I’m currently working on Kubernetes, CI/CD, and AWS<br>🌱 Studying cloud computing systems through a master's program. <br>
 
 
 ## 🌐 Socials:

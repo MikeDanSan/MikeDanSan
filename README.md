@@ -1,5 +1,9 @@
 # About Me:
-I am a Linux Architect with a passion for exploring new technologies and<br>building efficient and scalable systems.<br><br>🔭 I’m currently working on the C programming language, Yocto Project, and everything Linux<br>🌱 Studying Linux Kernel Programming currently.<br>
+I'm a Software Engineer with a passion for backend development and building efficient, scalable systems. I enjoy working with modern backend frameworks and tools to design robust APIs and data-driven services.
+
+🔭 Currently learning Node.js and deepening my experience with Python-based frameworks like Flask, FastAPI, and Django.<br>
+🌱 Exploring gRPC and PostgreSQL to build high-performance, scalable backend systems.<br>
+💡 I’m especially interested in clean architecture, API design, and backend systems that are easy to maintain and scale.
 
 
 ## 🌐 Socials:
